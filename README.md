@@ -1,0 +1,2 @@
+# ghostto-web
+school project
